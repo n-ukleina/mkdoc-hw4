@@ -2,7 +2,8 @@ site_name: Документация API
 description: Тест MkDocs Material
 nav:
   - Обзор API: index.md
-  - Начало работы: start.md
+  - Руководство: start.md
+  - Справочник: manual.md
   - Swagger: dist/index.html
 theme:
   name: material

@@ -3,7 +3,7 @@ description: Тест MkDocs Material
 nav:
   - Обзор API: index.md
   - Начало работы: start.md
-  - Swagger: openapi.yml
+  - Swagger: dist/index.html
 theme:
   name: material
   language: ru
